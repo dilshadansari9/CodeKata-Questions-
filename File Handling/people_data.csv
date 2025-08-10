@@ -1,0 +1,101 @@
+ID,Name,Age,City,Score
+1,Alice,25.0,New York,85.5
+2,Bob,30.0,Los Angeles,78.2
+3,,22.0,San Francisco,92.1
+4,David,35.0,Chicago,
+5,Eve,28.0,Houston,88.9
+6,Frank,,Phoenix,72.5
+7,Grace,23.0,Philadelphia,95.0
+8,Heidi,31.0,,81.3
+9,Ivan,29.0,San Diego,70.0
+10,Judy,38.0,Dallas,89.7
+11,Kevin,26.0,San Jose,76.4
+12,Liam,,Austin,91.0
+13,Mia,27.0,Jacksonville,68.8
+14,Noah,40.0,Fort Worth,
+15,Olivia,24.0,Columbus,79.5
+16,Peter,36.0,Charlotte,87.1
+17,Quinn,32.0,Indianapolis,73.9
+18,Rachel,29.0,Seattle,
+19,Sam,34.0,Denver,67.2
+20,Tina,37.0,Washington,90.3
+21,Uma,25.0,Boston,82.6
+22,Victor,30.0,,75.0
+23,Wendy,28.0,Detroit,94.0
+24,Xavier,41.0,Nashville,
+25,Yara,23.0,Memphis,86.0
+26,Zoe,,Portland,71.8
+27,Aaron,27.0,Oklahoma City,80.0
+28,Betty,35.0,Las Vegas,88.0
+29,Carl,26.0,,77.3
+30,Diana,31.0,Baltimore,92.0
+31,Ethan,29.0,Milwaukee,66.7
+32,Fiona,38.0,Albuquerque,83.4
+33,George,,Tucson,74.1
+34,Hannah,33.0,Fresno,91.5
+35,Isaac,28.0,Sacramento,
+36,Jackie,40.0,Mesa,85.0
+37,Kyle,24.0,Atlanta,79.0
+38,Laura,36.0,Kansas City,
+39,Mike,32.0,Colorado Springs,73.0
+40,Nancy,29.0,Raleigh,93.0
+41,Oscar,34.0,Omaha,67.0
+42,Penny,37.0,Miami,
+43,Quentin,25.0,Virginia Beach,82.0
+44,Rose,30.0,Long Beach,75.0
+45,Steve,,Oakland,94.0
+46,Tracy,41.0,Minneapolis,69.0
+47,Ursula,23.0,,86.0
+48,Vincent,39.0,Wichita,71.0
+49,Willow,27.0,New Orleans,
+50,Xenia,35.0,Arlington,88.0
+51,Yusuf,26.0,Cleveland,77.0
+52,Zara,31.0,Bakersfield,92.0
+53,Alex,29.0,,66.0
+54,Brenda,38.0,Aurora,83.0
+55,Chris,25.0,Honolulu,74.0
+56,Debra,33.0,Anaheim,
+57,Eric,28.0,Santa Ana,69.0
+58,Felicia,40.0,Riverside,85.0
+59,Greg,24.0,Corpus Christi,79.0
+60,Holly,36.0,,87.0
+61,Ian,32.0,Henderson,73.0
+62,Jasmine,29.0,Plano,93.0
+63,Ken,34.0,St. Louis,
+64,Linda,37.0,Cincinnati,90.0
+65,Mark,25.0,Orlando,82.0
+66,Nora,30.0,Pittsburgh,75.0
+67,Owen,28.0,,94.0
+68,Pat,41.0,Richmond,69.0
+69,Kelly,,Boise,86.0
+70,Leo,39.0,Hialeah,71.0
+71,Megan,27.0,Spokane,
+72,Nathan,35.0,Fremont,88.0
+73,Paula,26.0,Baton Rouge,77.0
+74,Roger,31.0,Norfolk,92.0
+75,Sara,29.0,,66.0
+76,Tom,38.0,Garland,83.0
+77,Vicky,25.0,Jersey City,74.0
+78,Will,33.0,Newark,
+79,Yvette,28.0,Lincoln,69.0
+80,Zach,40.0,Chandler,85.0
+81,Amy,24.0,Scottsdale,79.0
+82,Ben,,Fort Wayne,87.0
+83,Cara,32.0,Durham,73.0
+84,Dean,29.0,,93.0
+85,Emily,34.0,Laredo,67.0
+86,Fred,37.0,Madison,90.0
+87,Gina,25.0,Lubbock,
+88,Harry,30.0,Gilbert,75.0
+89,Ivy,28.0,Reno,94.0
+90,Jack,41.0,Winston-Salem,69.0
+91,Karen,23.0,Glendale,
+92,Larry,39.0,North Las Vegas,71.0
+93,Mona,27.0,Irving,80.0
+94,Ned,35.0,Chesapeake,88.0
+95,Olga,26.0,Paradise,77.0
+96,Paul,31.0,,92.0
+97,Queenie,29.0,Jacksonville,66.0
+98,Rob,38.0,Fort Lauderdale,83.0
+99,Sophie,,San Bernardino,74.0
+100,Tim,33.0,Tacoma,91.0
