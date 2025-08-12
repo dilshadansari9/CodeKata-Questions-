@@ -8,7 +8,7 @@ n1,n2=map(int, input().split())
 #     print(n1)
 #     # if(rem==0):
 #     #     print(n1)
-# elif(n2>n1):
+# elif(n2>n1): 
 # # if(n2>n1):
 #     while n1>0:
 #         rem=n2%n1 
